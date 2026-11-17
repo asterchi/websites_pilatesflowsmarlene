@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Startseite DE + FR -->
+  <url>
+    <loc>https://pilatesflowsmarlene.ch/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pilatesflowsmarlene.ch/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pilatesflowsmarlene.ch/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pilatesflowsmarlene.ch/" />
+  </url>
+  <url>
+    <loc>https://pilatesflowsmarlene.ch/fr/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://pilatesflowsmarlene.ch/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pilatesflowsmarlene.ch/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pilatesflowsmarlene.ch/" />
+  </url>
+
+  <!-- Impressum -->
+  <url>
+    <loc>https://pilatesflowsmarlene.ch/impressum.html</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+
+</urlset>
